@@ -1,0 +1,39 @@
+li#customize-control-sd_footer_copyright,li#customize-control-sd_footer_credit,li#accordion-section-storefront_checkout,li#accordion-section-static_front_page,li#accordion-section-swc_shop_section,li.customize-section-description-container,li#customize-control-sd_header_sticky,li#customize-control-swc_product_layout,li#customize-control-swc_product_gallery_layout{display:none!important;opacity:0!important}
+#customize-info .accordion-section-title{background-color:rgba(0,0,0,0.5);color:#FFF;border-bottom:0}
+#customize-theme-controls .accordion-section-title{color:#fff;background-color:transparent;border-style:solid;border-width:1px 1px 0;border-color:rgba(0,0,0,0.2);font-size:11pt;text-transform:lowercase;letter-spacing:-.03em}
+#customize-theme-controls .control-section:last-of-type.open,#customize-theme-controls .control-section:last-of-type>.accordion-section-title,li#accordion-section-themes h3.accordion-section-title{border-bottom-color:rgba(0,0,0,0.2);border-bottom-width:1px}
+#customize-header-actions{border-bottom:1px solid #353535;background-color:#1A1A1A}
+.customize-controls-close{border-right:1px solid #353535;background-color:#525252;color:darkgrey}
+.wp-color-result:after,.wp-core-ui .button-secondary,.menu-item-handle,.widget .widget-top{background:#FFF}
+.control-section.control-panel>.accordion-section-title:after{background:#525252;color:darkgrey;border-left:1px solid #353535}
+#customize-theme-controls .control-section .accordion-section-title:hover,#customize-theme-controls .control-section.open .accordion-section-title,#customize-theme-controls .control-section:hover>.accordion-section-title{color:#242424;background:darkgrey}
+#customize-info{border-top:0}
+.wp-full-overlay-sidebar,.wp-full-overlay-sidebar-content,.customize-themes-panel{background:#959595;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzk1OTU5NSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjNmM2YzYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,rgba(149,149,149,1) 0%,rgba(198,198,198,1) 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,rgba(149,149,149,1)),color-stop(100%,rgba(198,198,198,1)));background:-webkit-linear-gradient(top,rgba(149,149,149,1) 0%,rgba(198,198,198,1) 100%);background:-o-linear-gradient(top,rgba(149,149,149,1) 0%,rgba(198,198,198,1) 100%);background:-ms-linear-gradient(top,rgba(149,149,149,1) 0%,rgba(198,198,198,1) 100%);background:linear-gradient(to bottom,rgba(149,149,149,1) 0%,rgba(198,198,198,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#959595',endColorstr='#c6c6c6',GradientType=0)}
+.control-section-themes .accordion-section-title .change-theme,.control-section-themes .accordion-section-title .customize-theme{color:#d3d3d3;background-color:dimgrey;font-weight:700;border:0}
+.control-section-themes .accordion-section-title .change-theme:hover,.control-section-themes .accordion-section-title .customize-theme:hover{border:1px solid #fff;color:#fff;font-weight:400}
+.customize-themes-panel>h2{color:#fff}
+.wp-full-overlay-sidebar-content{padding:10px}
+.wp-full-overlay-sidebar{border-right:1px solid #353535}
+#customize-theme-controls .accordion-section-content{background:#f5f5f5;-webkit-border-radius:0 0 10px 10px;-khtml-border-radius:0 0 10px 10px;-moz-border-radius:0 0 10px 10px;border-radius:0 0 10px 10px}
+.wp-full-overlay .collapse-sidebar-arrow{color:#242424}
+.wp-full-overlay .collapse-sidebar-arrow:before{background-color:darkgrey}
+.control-panel-back:focus,.control-panel-back:hover,.customize-controls-close:focus,.customize-controls-close:hover{background:#ddd;border:0;color:#000}
+.customize-control-background .current .container,.customize-control-header .current .container,.customize-control-image .current .container,.customize-control-upload .current .container{border:1px solid darkgrey}
+#customize-info.open,#customize-theme-controls .control-section.open{border-bottom:0}
+#customize-theme-controls .control-section.open .accordion-section-title{-webkit-border-radius:10px 10px 0 0;-khtml-border-radius:10px 10px 0 0;-moz-border-radius:10px 10px 0 0;border-radius:10px 10px 0 0}
+.in-sub-panel #customize-info,.in-sub-panel #customize-theme-controls>ul>.accordion-section{max-width:285px}
+.customize-control-title{text-transform:capitalize;text-transform:uppercase;font-size:8pt;line-height:1;padding-top:14px;margin-top:4px;border-top:1px dashed silver}
+ul.accordion-section-content li.customize-control:first-child span.customize-control-title,li#customize-control-storefront_button_background_color span.customize-control-title,li#customize-control-storefront_footer_heading_color span.customize-control-title,li#customize-control-swc_product_layout span.customize-control-title,li#customize-control-nav_menu_locations-primary span.customize-control-title{border-top:0;margin-top:0}
+li#customize-control-swc_product_layout span.customize-control-title{padding-top:0}
+#customize-header-actions .button-primary {color: silver;border-color: silver}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-button{width:0;height:0}
+::-webkit-scrollbar-thumb{background:#8d8d8d;border:0 none #fff;border-radius:50px}
+::-webkit-scrollbar-thumb:hover{background:#090909}
+::-webkit-scrollbar-thumb:active{background:#000}
+::-webkit-scrollbar-track{background:#444;border:0 none #fff;border-radius:50px}
+::-webkit-scrollbar-track:hover{background:#292929}
+::-webkit-scrollbar-track:active{background:#333}
+::-webkit-scrollbar-corner{background:transparent}
+.spinner{background:url(../images/ajax-loader.gif) 0 0/20px 20px no-repeat}
+#customize-header-actions .spinner{margin-top:12px;margin-right:8px}
